@@ -45,5 +45,6 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 <p align="center">
     <img alt="Swap the digits" src="image1.svg" width="100px"/>
 </p>
+
 - If the reverse number is the input number `true` else `false`
   
