@@ -41,7 +41,9 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 - The negative numbers cannot be palindrome
 - We split our number to its digits
-- Then we make the reverse number \
-<img alt="Swap the digits" src="image1.svg" align="center" width="100px"/>
+- Then we make the reverse number
+<p align="center">
+    <img alt="Swap the digits" src="image1.svg" width="100px"/>
+</p>
 - If the reverse number is the input number `true` else `false`
   
