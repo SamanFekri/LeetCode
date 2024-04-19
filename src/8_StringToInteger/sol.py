@@ -1,5 +1,5 @@
 class Solution(object):
-    def myAtoi(self, s):
+    def myAtoi(self, s: str) -> int:
         MIN, MAX = -2 ** 31, 2 ** 31 - 1
         n, empty, sign = 0, True, 1  # empty denotes we have not seen any number, sign is -1 or 1
         for c in s:
